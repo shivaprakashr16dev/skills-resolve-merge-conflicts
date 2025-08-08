@@ -1,4 +1,5 @@
-this is a conflict 
 
+# References
 
-this is also a conflict
+* octocat 1 😈
+
